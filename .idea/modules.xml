@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/J06007_bang_tinh_gio_chuan/J06007_bang_tinh_gio_chuan.iml" filepath="$PROJECT_DIR$/J06007_bang_tinh_gio_chuan/J06007_bang_tinh_gio_chuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J06008_tinh_gio_chuan_cho_tung_giang_vien/J06008_tinh_gio_chuan_cho_tung_giang_vien.iml" filepath="$PROJECT_DIR$/J06008_tinh_gio_chuan_cho_tung_giang_vien/J06008_tinh_gio_chuan_cho_tung_giang_vien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/on_thi_java.iml" filepath="$PROJECT_DIR$/.idea/on_thi_java.iml" />
+    </modules>
+  </component>
+</project>
