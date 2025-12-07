@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/J06007_bang_tinh_gio_chuan/J06007_bang_tinh_gio_chuan.iml" filepath="$PROJECT_DIR$/J06007_bang_tinh_gio_chuan/J06007_bang_tinh_gio_chuan.iml" />
       <module fileurl="file://$PROJECT_DIR$/J06008_tinh_gio_chuan_cho_tung_giang_vien/J06008_tinh_gio_chuan_cho_tung_giang_vien.iml" filepath="$PROJECT_DIR$/J06008_tinh_gio_chuan_cho_tung_giang_vien/J06008_tinh_gio_chuan_cho_tung_giang_vien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan.iml" filepath="$PROJECT_DIR$/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J07012_thong_ke_tu_khac_nhau_trong_file_nhi_phan/J07012_thong_ke_tu_khac_nhau_trong_file_nhi_phan.iml" filepath="$PROJECT_DIR$/J07012_thong_ke_tu_khac_nhau_trong_file_nhi_phan/J07012_thong_ke_tu_khac_nhau_trong_file_nhi_phan.iml" />
       <module fileurl="file://$PROJECT_DIR$/J07013_danh_sach_sinh_vien_trong_file_nhi_phan/J07013_danh_sach_sinh_vien_trong_file_nhi_phan.iml" filepath="$PROJECT_DIR$/J07013_danh_sach_sinh_vien_trong_file_nhi_phan/J07013_danh_sach_sinh_vien_trong_file_nhi_phan.iml" />
       <module fileurl="file://$PROJECT_DIR$/J07014_hop_va_giao_cua_2_file_van_ban/J07014_hop_va_giao_cua_2_file_van_ban.iml" filepath="$PROJECT_DIR$/J07014_hop_va_giao_cua_2_file_van_ban/J07014_hop_va_giao_cua_2_file_van_ban.iml" />
       <module fileurl="file://$PROJECT_DIR$/J07016_so_nguyen_to_trong_2_file_nhi_phan/J07016_so_nguyen_to_trong_2_file_nhi_phan.iml" filepath="$PROJECT_DIR$/J07016_so_nguyen_to_trong_2_file_nhi_phan/J07016_so_nguyen_to_trong_2_file_nhi_phan.iml" />
@@ -34,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/J07081_sap_xep_danh_sach_sinh_vien/J07081_sap_xep_danh_sach_sinh_vien.iml" filepath="$PROJECT_DIR$/J07081_sap_xep_danh_sach_sinh_vien/J07081_sap_xep_danh_sach_sinh_vien.iml" />
       <module fileurl="file://$PROJECT_DIR$/J07084/J07084_thoi_gian_online_lien_tuc.iml" filepath="$PROJECT_DIR$/J07084/J07084_thoi_gian_online_lien_tuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/J07085_tong_chu_so/J07085_tong_chu_so.iml" filepath="$PROJECT_DIR$/J07085_tong_chu_so/J07085_tong_chu_so.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan/Word/Word.iml" filepath="$PROJECT_DIR$/J07011_thong_ke_tu_khac_nhau_trong_file_nhi_phan/Word/Word.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/on_thi_java.iml" filepath="$PROJECT_DIR$/.idea/on_thi_java.iml" />
     </modules>
   </component>
